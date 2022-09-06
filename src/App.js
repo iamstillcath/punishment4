@@ -151,19 +151,4 @@ function App() {
 }
 
 export default App;
-{
-  /* <td>
-{(data.last || "").charAt(0).toUpperCase() +
-  (data.last || "").slice(1)}{" "}
-{(data.first || "").toUpperCase()}
-</td>
-<td>{data.email}</td>
-<td>{data.gender}</td>
-<td></td>
-<td>
 
-</td>
-<td>
-<button>Delete</button>
-</td>  */
-}
