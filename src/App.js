@@ -14,6 +14,7 @@ function App() {
     e.preventDefault();
     if (edit !== null) {
       let editData = data;
+      console.log("this is edited",editData)
       editData[edit].first = first;
       editData[edit].last = last;
       editData[edit].email = email;
